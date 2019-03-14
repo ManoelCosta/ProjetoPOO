@@ -1,4 +1,4 @@
-class Crianca {
+public class Crianca {
 
     String corCabelo;
     String corPele;
