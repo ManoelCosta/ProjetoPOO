@@ -1,4 +1,4 @@
-//Classe criança
+//Carro criança
 public class Crianca {
     //Atributos
     String corCabelo;
