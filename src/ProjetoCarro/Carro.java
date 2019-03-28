@@ -7,6 +7,7 @@ public class Carro {
     double velocidadeMax, velocidadeAtual, volCombustivel;
     boolean tetoSolar, cambioAutomatico;
     Proprietario proprietario;
+
     //Métodos
     void acelera(){
         velocidadeAtual += 1;
