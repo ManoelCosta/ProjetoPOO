@@ -1,6 +1,8 @@
 package ProjetoClinica;
 
 public class Medico {
-    String nome, especialidade, crm;
+    String nome;
+    String especialidade;
+    String crm;
 
 }

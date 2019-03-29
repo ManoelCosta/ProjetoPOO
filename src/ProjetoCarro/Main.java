@@ -2,7 +2,7 @@ package ProjetoCarro;
 
 public class Main {
     public static void main(String args[]){
-        Proprietario proprietario = new Proprietario();
+        Proprietario proprietario = new Proprietario("Manoel", 654);
         proprietario.nome = "Manoel Silva Costa";
         proprietario.bairro = "Pedreira";
         proprietario.cep = 66085540;
